@@ -27,11 +27,11 @@ Para poder ejecutar este análisis en tu entorno local, sigue estos pasos:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-proyecto.git](https://github.com/tu-usuario/nombre-del-proyecto.git)
+    git clone https://github.com/jlescanog/challenges_data_basic.git
     ```
 2.  **Navega al directorio del proyecto:**
     ```bash
-    cd nombre-del-proyecto
+    cd challenges_data_basic
     ```
 3.  **Crea un entorno virtual (recomendado):**
     ```bash
